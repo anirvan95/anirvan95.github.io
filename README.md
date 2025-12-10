@@ -1,5 +1,5 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# Personal academic portfolio of Anirvan Dutta
+**Based on Academic Pages which is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
 ---
 <div align="center">
