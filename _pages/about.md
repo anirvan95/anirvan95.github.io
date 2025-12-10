@@ -11,7 +11,7 @@ I am working on the problem of dexterous robotic manipulation and am an incoming
 
 I am interested in developing robust perception and control for robotic arms, focusing on contact-rich tasks and taking inspiration from cognitive principles in neuroscience.
 
-The content is brewing :coffee:
+The content is brewing :coffee:, expected completion in early 2026... !!
 
 <p align="center">
 <img src="/images/background.png"
