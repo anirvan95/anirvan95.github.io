@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I work in the field of robotic manipulation, with a focus on developing robust perception and control frameworks that enable autonomous operation in contact-rich settings. My research draws inspiration from human sensorimotor apparatus,  aiming to translate key principles of human behavior into safer, more generalizable, and more efficient robotic manipulation :mechanical_arm:.
+I work in the field of robotic manipulation, with a focus on developing robust perception and control frameworks that enable autonomous operation in contact-rich settings. My research draws inspiration from human sensorimotor apparatus,  aiming to translate key principles of human behavior into safer, generalizable, and efficient robotic manipulation :mechanical_arm:.
 
 I will be joining the [Intelligent Robotics Group](https://irobotics.aalto.fi/) at Aalto University as a postdoctoral researcher in Jan 2026. I completed my PhD from [Human Robotics Group](https://www.imperial.ac.uk/human-robotics/), Imperial College London on the topic of *'Predictive Visuo-Tactile Object Perception via Robotic Manipulation'* in 2025. During my PhD, I was a Marie Curie Early Stage Researcher at the [RoboTac Lab](https://www.robotac.eu/), BMW Group AG.  
 Prior to that, I earned my Master's degree in Systems, Control and Robotics from KTH Royal Institute of Technology, Stockholm in 2020, and my Bachelor's degree in Electronics & Communication Engineering from Birla Institute of Technology, Mesra, India in 2017.
