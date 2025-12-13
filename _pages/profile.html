@@ -1,0 +1,20 @@
+---
+layout: single
+title: ""
+permalink: /profile/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>
+  This webpage is currently brewing :coffee: and is expected to be completed in early 2026!
+</p>
+Download a not so concise and boring CV
+<a href="{{ base_path }}/files/academic_cv_25.pdf" download>here</a>,
+but feel free to explore the website for more details.
+
+{% for post in site.profile %}
+  {% include archive-single.html %}
+{% endfor %}
+

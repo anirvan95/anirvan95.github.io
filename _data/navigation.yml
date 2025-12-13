@@ -9,22 +9,22 @@
 
 main:
   - title: "Profile"
-    url: /about/
+    url: /profile/
 
   - title: "Projects"
-    url: /about/
+    url: /projects/
 
   #- title: "Talks"
   #  url: /talks/    
 
   - title: "Publications"
-    url: /about/    
+    url: /publications/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
 
   - title: "Blog"
-    url: /about/
+    url: /year-archive/
     
   # - title: "CV"
   #   url: /cv-json/
