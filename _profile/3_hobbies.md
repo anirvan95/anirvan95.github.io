@@ -7,4 +7,4 @@ collection: workexperience
 
 Mostly robotics — a wonderfully weird field that nudges you into being a jack of many trades, occasionally a master of one, and always learning.
 
-Along the way, I’ve picked up interests in cooking, sketching, philosophy, and understanding how humans think, feel, and act.
+Along the way, I’ve picked up interests in cooking, sketching, most recently philosophy - understanding how humans think, feel, and act.
